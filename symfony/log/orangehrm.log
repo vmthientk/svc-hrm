@@ -1,0 +1,57 @@
+08/03/16 14:11:10,091 [2348] WARN core.email - Email configuration settings not available
+08/03/16 14:21:42,215 [2348] WARN core.email - Email configuration settings not available
+[13-Aug-2016 09:04:55 Europe/Berlin] Empty module and/or action after parsing the URL "/images/h1-bg.png" (/).
+[13-Aug-2016 09:04:56 Europe/Berlin] Empty module and/or action after parsing the URL "/images/tablesorter-bg.png" (/).
+[13-Aug-2016 09:04:57 Europe/Berlin] Empty module and/or action after parsing the URL "/images/sub-nav-arrow-n.png" (/).
+[13-Aug-2016 09:04:57 Europe/Berlin] Empty module and/or action after parsing the URL "/images/nav-bg.png" (/).
+[13-Aug-2016 09:04:58 Europe/Berlin] Empty module and/or action after parsing the URL "/images/toggle-down.png" (/).
+[13-Aug-2016 09:04:58 Europe/Berlin] Empty module and/or action after parsing the URL "/images/sub-nav.png" (/).
+[13-Aug-2016 09:04:59 Europe/Berlin] Empty module and/or action after parsing the URL "/images/sub-nav-arrow.png" (/).
+[13-Aug-2016 09:04:59 Europe/Berlin] Empty module and/or action after parsing the URL "/images/welcome-down.png" (/).
+[13-Aug-2016 09:05:13 Europe/Berlin] Empty module and/or action after parsing the URL "/images/top-nav-selected1.png" (/).
+[13-Aug-2016 09:05:14 Europe/Berlin] Empty module and/or action after parsing the URL "/images/sub-nav-arrow-s.png" (/).
+[31-Aug-2016 05:17:21 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\dao\TimesheetDao.php on line 542
+[31-Aug-2016 05:17:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\dao\TimesheetDao.php on line 542
+[31-Aug-2016 08:20:23 Europe/Berlin] PHP Fatal error:  Call to a member function getEndDate() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\form\TimesheetForm.php on line 171
+[31-Aug-2016 08:20:28 Europe/Berlin] PHP Fatal error:  Call to a member function getEndDate() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\form\TimesheetForm.php on line 171
+[31-Aug-2016 08:20:30 Europe/Berlin] PHP Fatal error:  Call to a member function getEndDate() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\form\TimesheetForm.php on line 171
+[31-Aug-2016 08:20:31 Europe/Berlin] PHP Fatal error:  Call to a member function getEndDate() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\form\TimesheetForm.php on line 171
+[31-Aug-2016 08:20:32 Europe/Berlin] PHP Fatal error:  Call to a member function getEndDate() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\form\TimesheetForm.php on line 171
+08/31/16 08:39:43,557 [6484] WARN filter.ohrmAuthorizationFilter - User does not have access read access to admin - viewCustomers
+[31-Aug-2016 13:53:17 Asia/Krasnoyarsk] PHP Fatal error:  Call to a member function getName() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\form\TimesheetForm.php on line 203
+[31-Aug-2016 13:53:30 Asia/Krasnoyarsk] PHP Fatal error:  Call to a member function getName() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\form\TimesheetForm.php on line 203
+[31-Aug-2016 13:53:55 Asia/Krasnoyarsk] PHP Fatal error:  Call to a member function getName() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\form\TimesheetForm.php on line 203
+[31-Aug-2016 13:54:55 Asia/Krasnoyarsk] PHP Fatal error:  Call to a member function getName() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\form\TimesheetForm.php on line 203
+[31-Aug-2016 14:07:53 Asia/Krasnoyarsk] PHP Fatal error:  Call to a member function getName() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\form\TimesheetForm.php on line 203
+[31-Aug-2016 09:08:35 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_55a775cf9fcff8.50052456/themes/default/images/error-btn.png" (/).
+[31-Aug-2016 09:08:47 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_55a775cf9fcff8.50052456/themes/default/images/error-btn.png" (/).
+[31-Aug-2016 09:08:55 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_55a775cf9fcff8.50052456/themes/default/images/error-btn.png" (/).
+[31-Aug-2016 09:09:12 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_55a775cf9fcff8.50052456/themes/default/images/error-btn.png" (/).
+[31-Aug-2016 09:09:53 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_55a775cf9fcff8.50052456/themes/default/images/error-btn.png" (/).
+[31-Aug-2016 09:10:02 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_55a775cf9fcff8.50052456/themes/default/images/error-btn.png" (/).
+[31-Aug-2016 09:10:10 Europe/Berlin] Empty module and/or action after parsing the URL "/webres_55a775cf9fcff8.50052456/themes/default/images/error-btn.png" (/).
+[31-Aug-2016 14:10:44 Asia/Krasnoyarsk] PHP Fatal error:  Call to a member function getName() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\form\TimesheetForm.php on line 203
+[31-Aug-2016 14:14:37 Asia/Krasnoyarsk] PHP Fatal error:  Call to a member function getCustomer() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\form\TimesheetForm.php on line 200
+[31-Aug-2016 14:25:57 Asia/Krasnoyarsk] PHP Fatal error:  Call to a member function getCustomer() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\form\TimesheetForm.php on line 200
+[31-Aug-2016 14:28:21 Asia/Krasnoyarsk] PHP Fatal error:  Call to a member function getCustomer() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\form\TimesheetForm.php on line 200
+[07-Sep-2016 08:37:27 Asia/Krasnoyarsk] PHP Fatal error:  Call to a member function getCustomer() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\form\TimesheetForm.php on line 200
+09/07/16 11:06:40,295 [5908] WARN core.email - Email configuration settings not available
+09/07/16 11:06:57,121 [5908] WARN core.email - Email configuration settings not available
+09/07/16 11:07:09,372 [5908] WARN core.email - Email configuration settings not available
+09/07/16 11:07:52,748 [5908] WARN core.email - Email configuration settings not available
+09/07/16 11:08:17,948 [5908] WARN core.email - Email configuration settings not available
+09/07/16 11:09:06,588 [5908] WARN core.email - Email configuration settings not available
+09/07/16 11:11:15,488 [5908] WARN core.email - Email configuration settings not available
+09/07/16 11:11:42,767 [5908] WARN core.email - Email configuration settings not available
+09/07/16 11:12:04,434 [5908] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+09/07/16 11:12:04,454 [5908] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+09/07/16 11:12:04,455 [5908] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+09/07/16 11:13:00,001 [5908] WARN core.email - Email configuration settings not available
+09/07/16 11:13:01,151 [5908] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+09/07/16 11:13:01,163 [5908] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+09/07/16 11:13:01,174 [5908] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+09/07/16 11:13:23,839 [5908] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+09/07/16 11:13:23,859 [5908] ERROR leave.LeaveApplicationService - No workflow item found for APPLY leave action!
+09/07/16 11:13:40,679 [5908] WARN core.email - Email configuration settings not available
+09/07/16 11:13:51,784 [5908] WARN core.email - Email configuration settings not available
+[08-Sep-2016 17:53:48 Asia/Krasnoyarsk] PHP Fatal error:  Call to a member function getProjectId() on a non-object in C:\xampp\htdocs\svc-hrm\symfony\plugins\orangehrmTimePlugin\lib\service\TimesheetService.php on line 223

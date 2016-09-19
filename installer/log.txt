@@ -1,0 +1,48 @@
+Client Info
+
+User Agent : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+Remote Address : 127.0.0.1
+
+Server Info
+
+Host : 127.0.0.1:8080
+PHP Version : 5.5.37
+Server : Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.5.37
+Admin : postmaster@localhost
+
+Document Root : C:/xampp/htdocs
+ROOT_PATH : C:\xampp\htdocs\svc-hrm
+
+OrangeHRM Installation Log
+
+Mon, 01 Aug 2016 15:22:45 +0200 DB Creation - Starting
+Mon, 01 Aug 2016 15:22:45 +0200 DB Creation - Done
+Mon, 01 Aug 2016 15:22:45 +0200 DB Creation - No Errors
+Mon, 01 Aug 2016 15:22:47 +0200 Fill Data Phase 1 - Starting
+Mon, 01 Aug 2016 15:22:47 +0200 Fill Data Phase 1 - Connected to the DB Server
+Mon, 01 Aug 2016 15:22:47 +0200 Fill Data Phase 1 - Selected the DB
+Mon, 01 Aug 2016 15:22:47 +0200 Fill Data Phase 1 - Reading DB Script
+Mon, 01 Aug 2016 15:22:47 +0200 Fill Data Phase 1 - Opened DB Script
+Mon, 01 Aug 2016 15:22:47 +0200 Fill Data Phase 1 - Read DB script
+Mon, 01 Aug 2016 15:22:47 +0200 Fill Data Phase 1 - There are 284 Statements in the DB script
+Mon, 01 Aug 2016 15:25:46 +0200 Fill Data Phase 1 - Done
+Mon, 01 Aug 2016 15:25:46 +0200 Fill Data Phase 1 - No Errors
+Mon, 01 Aug 2016 15:25:48 +0200 Fill Data Phase 2 - Starting
+Mon, 01 Aug 2016 15:25:48 +0200 Fill Data Phase 2 - Connected to the DB Server
+Mon, 01 Aug 2016 15:25:48 +0200 Fill Data Phase 2 - Selected the DB
+Mon, 01 Aug 2016 15:25:48 +0200 Fill Data Phase 2 - Reading DB Script
+Mon, 01 Aug 2016 15:25:48 +0200 Fill Data Phase 2 - Opened DB Script
+Mon, 01 Aug 2016 15:25:48 +0200 Fill Data Phase 2 - Read DB script
+Mon, 01 Aug 2016 15:25:48 +0200 Fill Data Phase 2 - There are 127 Statements in the DB script
+Mon, 01 Aug 2016 15:26:07 +0200 Fill Data Phase 1 - Connected to the DB Server
+Mon, 01 Aug 2016 15:26:08 +0200 Fill Data Phase 2 - Done
+Mon, 01 Aug 2016 15:26:08 +0200 Fill Data Phase 2 - No Errors
+Mon, 01 Aug 2016 15:26:10 +0200 Create DB user - Starting
+Mon, 01 Aug 2016 15:26:10 +0200 Create DB user - Done
+Mon, 01 Aug 2016 15:26:10 +0200 Create DB user - No Errors
+Mon, 01 Aug 2016 15:26:13 +0200 Create OrangeHRM user - Starting
+Mon, 01 Aug 2016 15:26:14 +0200 Create OrangeHRM user - Done
+Mon, 01 Aug 2016 15:26:14 +0200 Create OrangeHRM user - No Errors
+Mon, 01 Aug 2016 15:26:16 +0200 Write Conf - Starting
+Mon, 01 Aug 2016 15:26:16 +0200 Write Conf - Done
+Mon, 01 Aug 2016 15:26:16 +0200 Write Conf - No Errors
